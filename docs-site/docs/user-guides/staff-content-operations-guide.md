@@ -14,8 +14,8 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 | --- | --- |
 | Audience | GSF content staff, MEAL officers, CBF staff, course managers, and forum moderators. |
 | Scope | Day-to-day content and data operations. Platform-level updates, plugins, themes, users, and settings belong to administrators. |
-| Tested against | GSF Hub local test site at localhost:8090 |
-| Version date | July 28, 2026 |
+| Tested against | (https://gsfhub.caribbeanbiodiversityfund.org/) |
+| Version date | September, 2026 |
 
 **How to use this guide.** Follow the numbered procedures in order. Screenshots show the current local test build; labels may move slightly after WordPress, theme, or plugin updates.
 
