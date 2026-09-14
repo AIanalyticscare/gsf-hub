@@ -33,6 +33,10 @@ const sidebars: SidebarsConfig = {
       link: {type: 'doc', id: 'video-tutorials/overview'},
       items: [
         'video-tutorials/v01-dashboard',
+        'video-tutorials/v02-edit-page',
+        'video-tutorials/v03-resource',
+        'video-tutorials/case-study',
+        'video-tutorials/v04-online-course',
         'video-tutorials/v01-v02-wordpress-essentials',
         'video-tutorials/v03-v05-scripts',
       ],
