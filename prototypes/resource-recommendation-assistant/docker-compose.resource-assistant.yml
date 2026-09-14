@@ -1,0 +1,26 @@
+# Legacy optional Python research service.
+# The production WordPress plugin uses its built-in PHP engine and does not need this overlay.
+services:
+  resource-assistant:
+    build:
+      context: prototypes/resource-recommendation-assistant
+    container_name: gsf-resource-assistant
+    restart: unless-stopped
+    environment:
+      GSF_RESOURCE_ASSISTANT_API_TOKEN: ${GSF_RESOURCE_ASSISTANT_API_TOKEN:-gsf-local-resource-assistant}
+    command:
+      - gsf-recommend
+      - serve
+      - --wordpress-url
+      - http://wordpress/wp-json/gsf-resource-assistant/v1/corpus
+      - --refresh-seconds
+      - "30"
+      - --host
+      - 0.0.0.0
+      - --port
+      - "8765"
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://127.0.0.1:8765/health', timeout=2)"]
+      interval: 15s
+      timeout: 5s
+      retries: 5

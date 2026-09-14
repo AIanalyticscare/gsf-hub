@@ -1,0 +1,235 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="4700" viewBox="0 0 1600 4700" fill="none">
+  <defs>
+    <style>
+      .bg { fill: #f3f1ed; }
+      .panel { fill: #ffffff; stroke: #c9c5bf; stroke-width: 2; }
+      .section { fill: #fbfaf8; stroke: #d9d4cd; stroke-width: 2; }
+      .muted { fill: #efebe5; stroke: #d8d2ca; stroke-width: 1.5; }
+      .dark { fill: #e2ddd6; stroke: #c9c2b9; stroke-width: 1.5; }
+      .label { fill: #5d5a55; font-family: Arial, Helvetica, sans-serif; font-size: 22px; font-weight: 700; letter-spacing: 0.08em; }
+      .title { fill: #262320; font-family: Arial, Helvetica, sans-serif; font-size: 34px; font-weight: 700; }
+      .meta { fill: #6e6b66; font-family: Arial, Helvetica, sans-serif; font-size: 18px; }
+      .small { fill: #706c66; font-family: Arial, Helvetica, sans-serif; font-size: 16px; font-weight: 700; letter-spacing: 0.06em; }
+      .body { fill: #6c6862; font-family: Arial, Helvetica, sans-serif; font-size: 17px; }
+      .line { stroke: #b8b2aa; stroke-width: 10; stroke-linecap: round; }
+      .line-thin { stroke: #c4beb7; stroke-width: 7; stroke-linecap: round; }
+      .line-dash { stroke: #c2bcb4; stroke-width: 8; stroke-linecap: round; stroke-dasharray: 10 14; }
+      .outline-dash { fill: none; stroke: #c8c1b8; stroke-width: 2; stroke-dasharray: 12 10; }
+      .pill { fill: #ece7e0; stroke: #ccc5bc; stroke-width: 1.5; }
+      .chip { fill: #f5f2ee; stroke: #d5cec5; stroke-width: 1.5; }
+      .button { fill: #ded8d0; stroke: #bfb8af; stroke-width: 2; }
+      .footer { fill: #ebe6df; stroke: #cbc3ba; stroke-width: 2; }
+    </style>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="1600" height="4700" />
+
+  <rect class="panel" x="40" y="40" width="1520" height="90" rx="24" />
+  <text class="title" x="74" y="96">GSF Hub Homepage Wireframe</text>
+  <text class="meta" x="548" y="96">Desktop and mobile reference derived from the live homepage at http://localhost:8090</text>
+
+  <text class="label" x="70" y="180">DESKTOP</text>
+  <rect class="panel" x="60" y="210" width="980" height="4280" rx="28" />
+
+  <rect class="muted" x="100" y="250" width="900" height="54" rx="18" />
+  <text class="small" x="126" y="284">PARTNERSHIP BAR</text>
+  <rect class="section" x="116" y="320" width="868" height="104" rx="20" />
+  <rect class="dark" x="148" y="346" width="256" height="52" rx="12" />
+  <line class="line-thin" x1="466" y1="372" x2="730" y2="372" />
+  <line class="line-thin" x1="760" y1="372" x2="824" y2="372" />
+  <circle class="muted" cx="916" cy="372" r="24" />
+  <text class="small" x="128" y="478">HERO</text>
+  <rect class="section" x="100" y="500" width="900" height="760" rx="28" />
+  <rect class="pill" x="140" y="554" width="298" height="44" rx="22" />
+  <rect class="pill" x="458" y="554" width="260" height="44" rx="22" />
+  <line class="line" x1="142" y1="674" x2="490" y2="674" />
+  <line class="line" x1="142" y1="736" x2="462" y2="736" />
+  <line class="line" x1="142" y1="798" x2="548" y2="798" />
+  <line class="line-thin" x1="142" y1="892" x2="516" y2="892" />
+  <line class="line-thin" x1="142" y1="928" x2="460" y2="928" />
+  <rect class="button" x="140" y="990" width="176" height="58" rx="29" />
+  <rect class="outline-dash" x="334" y="990" width="214" height="58" rx="29" />
+  <rect class="panel" x="700" y="554" width="252" height="540" rx="22" />
+  <rect class="dark" x="720" y="574" width="212" height="318" rx="18" />
+  <line class="line-thin" x1="748" y1="814" x2="902" y2="814" />
+  <line class="line-dash" x1="744" y1="852" x2="910" y2="852" />
+  <rect class="chip" x="720" y="916" width="62" height="118" rx="18" />
+  <rect class="chip" x="795" y="916" width="62" height="118" rx="18" />
+  <rect class="chip" x="870" y="916" width="62" height="118" rx="18" />
+  <text class="small" x="128" y="1310">FLOATING SEARCH</text>
+  <rect class="panel" x="130" y="1332" width="840" height="104" rx="28" />
+  <rect class="muted" x="152" y="1354" width="650" height="60" rx="20" />
+  <rect class="button" x="818" y="1354" width="130" height="60" rx="20" />
+
+  <text class="small" x="128" y="1516">EXPLORE SECTION</text>
+  <rect class="section" x="100" y="1538" width="900" height="650" rx="28" />
+  <line class="line-dash" x1="140" y1="1604" x2="324" y2="1604" />
+  <line class="line" x1="140" y1="1668" x2="526" y2="1668" />
+  <rect class="outline-dash" x="810" y="1612" width="126" height="44" rx="22" />
+  <rect class="panel" x="140" y="1730" width="185" height="360" rx="24" />
+  <rect class="muted" x="166" y="1764" width="48" height="48" rx="14" />
+  <line class="line-thin" x1="166" y1="1872" x2="290" y2="1872" />
+  <line class="line-dash" x1="166" y1="1912" x2="284" y2="1912" />
+  <line class="line-dash" x1="166" y1="1948" x2="272" y2="1948" />
+  <rect class="panel" x="348" y="1730" width="185" height="360" rx="24" />
+  <rect class="muted" x="374" y="1764" width="48" height="48" rx="14" />
+  <line class="line-thin" x1="374" y1="1872" x2="500" y2="1872" />
+  <line class="line-dash" x1="374" y1="1912" x2="490" y2="1912" />
+  <line class="line-dash" x1="374" y1="1948" x2="484" y2="1948" />
+  <rect class="panel" x="556" y="1730" width="185" height="360" rx="24" />
+  <rect class="muted" x="582" y="1764" width="48" height="48" rx="14" />
+  <line class="line-thin" x1="582" y1="1872" x2="714" y2="1872" />
+  <line class="line-dash" x1="582" y1="1912" x2="708" y2="1912" />
+  <line class="line-dash" x1="582" y1="1948" x2="700" y2="1948" />
+  <rect class="panel" x="764" y="1730" width="185" height="360" rx="24" />
+  <rect class="muted" x="790" y="1764" width="48" height="48" rx="14" />
+  <line class="line-thin" x1="790" y1="1872" x2="904" y2="1872" />
+  <line class="line-dash" x1="790" y1="1912" x2="896" y2="1912" />
+  <line class="line-dash" x1="790" y1="1948" x2="886" y2="1948" />
+
+  <text class="small" x="128" y="2260">CASE STUDY + DATA</text>
+  <rect class="section" x="100" y="2284" width="900" height="840" rx="28" />
+  <rect class="panel" x="140" y="2332" width="560" height="742" rx="24" />
+  <rect class="dark" x="160" y="2352" width="520" height="276" rx="18" />
+  <line class="line-thin" x1="316" y1="2572" x2="522" y2="2572" />
+  <line class="line-dash" x1="186" y1="2688" x2="350" y2="2688" />
+  <line class="line" x1="186" y1="2760" x2="564" y2="2760" />
+  <line class="line-thin" x1="186" y1="2832" x2="544" y2="2832" />
+  <line class="line-dash" x1="206" y1="2912" x2="556" y2="2912" />
+  <line class="line-dash" x1="206" y1="2962" x2="514" y2="2962" />
+  <line class="line-dash" x1="206" y1="3012" x2="548" y2="3012" />
+  <rect class="footer" x="726" y="2332" width="234" height="742" rx="24" />
+  <line class="line-dash" x1="752" y1="2398" x2="904" y2="2398" />
+  <line class="line-thin" x1="752" y1="2470" x2="916" y2="2470" />
+  <line class="line-dash" x1="752" y1="2556" x2="864" y2="2556" />
+  <rect class="muted" x="752" y="2590" width="182" height="16" rx="8" />
+  <rect class="dark" x="752" y="2590" width="132" height="16" rx="8" />
+  <line class="line-dash" x1="752" y1="2652" x2="884" y2="2652" />
+  <rect class="muted" x="752" y="2686" width="182" height="16" rx="8" />
+  <rect class="dark" x="752" y="2686" width="106" height="16" rx="8" />
+  <line class="line-dash" x1="752" y1="2748" x2="868" y2="2748" />
+  <rect class="muted" x="752" y="2782" width="182" height="16" rx="8" />
+  <rect class="dark" x="752" y="2782" width="146" height="16" rx="8" />
+  <line class="line-dash" x1="752" y1="2844" x2="900" y2="2844" />
+  <rect class="muted" x="752" y="2878" width="182" height="16" rx="8" />
+  <rect class="dark" x="752" y="2878" width="96" height="16" rx="8" />
+  <rect class="button" x="752" y="2950" width="182" height="56" rx="18" />
+
+  <text class="small" x="128" y="3200">RESOURCES + EVENT</text>
+  <rect class="section" x="100" y="3224" width="900" height="700" rx="28" />
+  <rect class="panel" x="140" y="3272" width="600" height="604" rx="24" />
+  <line class="line-dash" x1="178" y1="3340" x2="344" y2="3340" />
+  <line class="line" x1="178" y1="3412" x2="440" y2="3412" />
+  <rect class="muted" x="640" y="3320" width="54" height="54" rx="16" />
+  <rect class="chip" x="178" y="3488" width="166" height="286" rx="18" />
+  <line class="line-thin" x1="198" y1="3554" x2="314" y2="3554" />
+  <line class="line-dash" x1="198" y1="3592" x2="298" y2="3592" />
+  <rect class="outline-dash" x="198" y="3674" width="126" height="42" rx="14" />
+  <rect class="chip" x="358" y="3488" width="166" height="286" rx="18" />
+  <line class="line-thin" x1="378" y1="3554" x2="494" y2="3554" />
+  <line class="line-dash" x1="378" y1="3592" x2="482" y2="3592" />
+  <rect class="outline-dash" x="378" y="3674" width="126" height="42" rx="14" />
+  <rect class="chip" x="538" y="3488" width="166" height="286" rx="18" />
+  <line class="line-thin" x1="558" y1="3554" x2="674" y2="3554" />
+  <line class="line-dash" x1="558" y1="3592" x2="662" y2="3592" />
+  <rect class="outline-dash" x="558" y="3674" width="126" height="42" rx="14" />
+  <rect class="footer" x="764" y="3272" width="196" height="604" rx="24" />
+  <rect class="muted" x="794" y="3310" width="50" height="50" rx="14" />
+  <line class="line-dash" x1="794" y1="3420" x2="910" y2="3420" />
+  <line class="line-thin" x1="794" y1="3492" x2="910" y2="3492" />
+  <line class="line-dash" x1="794" y1="3568" x2="910" y2="3568" />
+  <line class="line-dash" x1="794" y1="3610" x2="900" y2="3610" />
+  <rect class="button" x="794" y="3688" width="136" height="52" rx="16" />
+
+  <text class="small" x="128" y="3992">FOOTER</text>
+  <rect class="footer" x="100" y="4016" width="900" height="420" rx="28" />
+  <rect class="panel" x="140" y="4060" width="280" height="320" rx="20" />
+  <rect class="dark" x="164" y="4086" width="120" height="120" rx="16" />
+  <line class="line-dash" x1="164" y1="4240" x2="374" y2="4240" />
+  <line class="line-dash" x1="164" y1="4280" x2="352" y2="4280" />
+  <rect class="panel" x="446" y="4060" width="164" height="320" rx="20" />
+  <line class="line-thin" x1="470" y1="4124" x2="564" y2="4124" />
+  <line class="line-dash" x1="470" y1="4180" x2="564" y2="4180" />
+  <line class="line-dash" x1="470" y1="4226" x2="564" y2="4226" />
+  <line class="line-dash" x1="470" y1="4272" x2="554" y2="4272" />
+  <rect class="panel" x="636" y="4060" width="164" height="320" rx="20" />
+  <line class="line-thin" x1="660" y1="4124" x2="772" y2="4124" />
+  <line class="line-dash" x1="660" y1="4180" x2="760" y2="4180" />
+  <line class="line-dash" x1="660" y1="4226" x2="752" y2="4226" />
+  <line class="line-dash" x1="660" y1="4272" x2="758" y2="4272" />
+  <rect class="panel" x="826" y="4060" width="134" height="320" rx="20" />
+  <rect class="muted" x="848" y="4120" width="90" height="72" rx="16" />
+  <rect class="muted" x="848" y="4212" width="90" height="72" rx="16" />
+
+  <text class="label" x="1086" y="180">MOBILE</text>
+  <rect class="panel" x="1080" y="210" width="470" height="4280" rx="28" />
+
+  <rect class="muted" x="1110" y="250" width="410" height="54" rx="18" />
+  <rect class="section" x="1110" y="320" width="410" height="96" rx="20" />
+  <rect class="dark" x="1134" y="346" width="160" height="44" rx="12" />
+  <circle class="muted" cx="1476" cy="368" r="22" />
+
+  <rect class="section" x="1110" y="454" width="410" height="980" rx="28" />
+  <rect class="pill" x="1136" y="490" width="220" height="40" rx="20" />
+  <rect class="pill" x="1136" y="546" width="284" height="40" rx="20" />
+  <line class="line" x1="1136" y1="670" x2="1388" y2="670" />
+  <line class="line" x1="1136" y1="726" x2="1374" y2="726" />
+  <line class="line" x1="1136" y1="782" x2="1410" y2="782" />
+  <line class="line-thin" x1="1136" y1="862" x2="1438" y2="862" />
+  <line class="line-thin" x1="1136" y1="900" x2="1408" y2="900" />
+  <rect class="button" x="1136" y="980" width="166" height="54" rx="27" />
+  <rect class="outline-dash" x="1318" y="980" width="164" height="54" rx="27" />
+  <rect class="panel" x="1136" y="1090" width="348" height="260" rx="22" />
+  <rect class="dark" x="1156" y="1110" width="308" height="146" rx="18" />
+  <line class="line-thin" x1="1210" y1="1292" x2="1412" y2="1292" />
+  <rect class="chip" x="1156" y="1288" width="92" height="48" rx="16" />
+  <rect class="chip" x="1268" y="1288" width="92" height="48" rx="16" />
+  <rect class="chip" x="1380" y="1288" width="84" height="48" rx="16" />
+
+  <rect class="panel" x="1136" y="1466" width="348" height="94" rx="24" />
+  <rect class="muted" x="1156" y="1486" width="248" height="54" rx="16" />
+  <rect class="button" x="1418" y="1486" width="46" height="54" rx="16" />
+
+  <rect class="section" x="1110" y="1600" width="410" height="760" rx="28" />
+  <line class="line-dash" x1="1138" y1="1664" x2="1294" y2="1664" />
+  <line class="line" x1="1138" y1="1728" x2="1424" y2="1728" />
+  <rect class="panel" x="1138" y="1800" width="160" height="240" rx="22" />
+  <rect class="panel" x="1318" y="1800" width="160" height="240" rx="22" />
+  <rect class="panel" x="1138" y="2060" width="160" height="240" rx="22" />
+  <rect class="panel" x="1318" y="2060" width="160" height="240" rx="22" />
+
+  <rect class="section" x="1110" y="2400" width="410" height="860" rx="28" />
+  <rect class="panel" x="1138" y="2440" width="354" height="520" rx="22" />
+  <rect class="dark" x="1158" y="2460" width="314" height="196" rx="16" />
+  <line class="line-thin" x1="1230" y1="2710" x2="1400" y2="2710" />
+  <line class="line" x1="1172" y1="2790" x2="1424" y2="2790" />
+  <line class="line-dash" x1="1172" y1="2860" x2="1420" y2="2860" />
+  <line class="line-dash" x1="1192" y1="2930" x2="1432" y2="2930" />
+  <line class="line-dash" x1="1192" y1="2980" x2="1404" y2="2980" />
+  <rect class="footer" x="1138" y="2998" width="354" height="232" rx="22" />
+  <line class="line-thin" x1="1168" y1="3052" x2="1412" y2="3052" />
+  <rect class="muted" x="1168" y="3090" width="294" height="16" rx="8" />
+  <rect class="dark" x="1168" y="3090" width="212" height="16" rx="8" />
+  <rect class="muted" x="1168" y="3140" width="294" height="16" rx="8" />
+  <rect class="dark" x="1168" y="3140" width="166" height="16" rx="8" />
+  <rect class="button" x="1168" y="3196" width="140" height="44" rx="14" />
+
+  <rect class="section" x="1110" y="3300" width="410" height="720" rx="28" />
+  <rect class="panel" x="1138" y="3340" width="354" height="420" rx="22" />
+  <line class="line-dash" x1="1168" y1="3408" x2="1328" y2="3408" />
+  <line class="line" x1="1168" y1="3476" x2="1392" y2="3476" />
+  <rect class="chip" x="1168" y="3558" width="90" height="164" rx="16" />
+  <rect class="chip" x="1270" y="3558" width="90" height="164" rx="16" />
+  <rect class="chip" x="1372" y="3558" width="90" height="164" rx="16" />
+  <rect class="footer" x="1138" y="3790" width="354" height="198" rx="22" />
+  <rect class="muted" x="1170" y="3824" width="52" height="52" rx="14" />
+  <line class="line-thin" x1="1170" y1="3928" x2="1418" y2="3928" />
+  <line class="line-dash" x1="1170" y1="3974" x2="1388" y2="3974" />
+  <rect class="button" x="1170" y="4012" width="136" height="42" rx="14" />
+
+  <rect class="footer" x="1110" y="4054" width="410" height="386" rx="28" />
+  <rect class="panel" x="1138" y="4090" width="170" height="144" rx="18" />
+  <rect class="panel" x="1138" y="4250" width="112" height="152" rx="18" />
+  <rect class="panel" x="1266" y="4250" width="112" height="152" rx="18" />
+  <rect class="panel" x="1394" y="4250" width="98" height="152" rx="18" />
+</svg>
