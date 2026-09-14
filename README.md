@@ -69,6 +69,10 @@ If you want this to become fully editor-managed, the next practical step is to w
 - native WordPress pages/posts/custom post types, or
 - Advanced Custom Fields for homepage section editing
 
+## Tutorial videos
+
+The content-manager video library is available in [docs/tutorial-videos](docs/tutorial-videos/README.md). It includes short narrated walkthroughs for signing in, editing pages, managing resources and case studies, and creating online courses.
+
 ## Suggested next build phase
 
 - Add custom post types for resources, case studies, webinars, and experts
