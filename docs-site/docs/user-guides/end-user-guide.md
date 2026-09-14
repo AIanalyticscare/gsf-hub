@@ -14,8 +14,8 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 | --- | --- |
 | Audience | Visitors, registered members, learners, partners, and expert-roster applicants. |
 | Scope | Public navigation plus signed-in member workflows. WordPress administration is outside this guide. |
-| Tested against | GSF Hub local test site at localhost:8090 |
-| Version date | July 28, 2026 |
+| Tested against | (https://gsfhub.caribbeanbiodiversityfund.org/) |
+| Version date | September, 2026 |
 
 **How to use this guide.** Follow the numbered procedures in order. Screenshots show the current local test build; labels may move slightly after WordPress, theme, or plugin updates.
 
