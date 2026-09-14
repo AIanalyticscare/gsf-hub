@@ -56,3 +56,9 @@ __pycache__/
 .env
 .env.*
 !.env.example
+
+# Docusaurus build output and dependencies
+/docs-site/node_modules/
+/docs-site/build/
+/docs-site/.docusaurus/
+/.pnpm-store/

@@ -1,0 +1,44 @@
+.heroBanner {
+  padding: 6rem 0;
+  text-align: left;
+}
+
+.eyebrow {
+  font-size: 0.78rem;
+  font-weight: 800;
+  letter-spacing: 0.16em;
+  margin-bottom: 0.75rem;
+  opacity: 0.88;
+}
+
+.sections {
+  padding: 4rem 0;
+}
+
+.card {
+  background: var(--ifm-card-background-color);
+  border: 1px solid rgba(16, 59, 61, 0.14);
+  border-radius: 16px;
+  color: var(--ifm-font-color-base);
+  display: block;
+  height: 100%;
+  margin-bottom: 1.5rem;
+  padding: 1.6rem;
+  transition: transform 160ms ease, box-shadow 160ms ease;
+}
+
+.card:hover {
+  box-shadow: 0 14px 36px rgba(16, 59, 61, 0.12);
+  color: var(--ifm-font-color-base);
+  text-decoration: none;
+  transform: translateY(-3px);
+}
+
+.card h2 {
+  font-size: 1.35rem;
+}
+
+.card span {
+  color: var(--ifm-color-primary);
+  font-weight: 700;
+}

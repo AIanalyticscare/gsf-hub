@@ -1,0 +1,23 @@
+GSF Hub WordPress Essentials — V01 and V02
+
+Welcome to the GSF Hub WordPress essentials tutorial. In two short chapters, you will sign in, orient yourself in the dashboard, and safely sign out. Then you will edit a page, preview and publish the result, check links and mobile layout, and understand how to restore a prior revision.
+
+Start at the WordPress sign-in screen. Enter the username provided by your administrator, then enter your password. Keep your password private. Select Remember Me only on a trusted personal device, and choose Log In.
+
+After signing in, the Dashboard is your starting point. The left menu opens content areas such as Pages, Resources, Case Studies, and the Data Centre. The top toolbar provides shortcuts and shows the account currently in use.
+
+Open Screen Options at the top right to choose which dashboard panels are visible. Use the account menu in the top toolbar to open your profile. Review your display name and language preferences, but change security details only when required by your administrator.
+
+When you finish, return to the account menu and choose Log Out. Signing out is especially important on shared or public computers. Wait for the sign-in screen before closing the browser.
+
+For chapter two, open Pages and locate the page you need. Confirm the title and language before editing. In the editor, make a focused change and keep headings, links, and paragraph structure clear. Avoid pasting formatting from another application unless it has been cleaned first.
+
+Before publishing, choose Preview Changes. Read the page as a visitor would. Check spelling, headings, and spacing. Then return to the editor. For a new page choose Publish; for an existing page choose Update. Wait for the saved confirmation before navigating away.
+
+Inspect every link you changed. Confirm that the link text clearly describes its destination, opens the intended page, and does not point to a draft, private page, or local address on the production site.
+
+Check the result at both desktop and mobile sizes. On mobile, look for readable type, comfortable spacing, complete headings, working menus, and links that are easy to tap. Fix horizontal scrolling or clipped content before considering the update complete.
+
+If an update introduces a problem, return to the editor and find Revisions in the Publish panel. Choose Browse, compare the earlier and later versions, select the correct saved state, and choose Restore This Revision. Preview the restored page, then update it to make that version live.
+
+You now know the two essential workflows: sign in, use the dashboard, review your profile and options, and sign out safely; then edit, preview, update, verify, and restore a page. Work carefully, preview every change, and ask an administrator when you are uncertain.

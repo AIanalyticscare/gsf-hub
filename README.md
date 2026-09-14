@@ -4,6 +4,19 @@ This repository now contains:
 
 - a custom WordPress theme at `wp-content/themes/gsf-hub`
 - a local Docker-based vanilla WordPress install
+- a Docusaurus knowledge base at `docs-site` with technical documentation,
+  role-based user guides, and video tutorials
+
+## Documentation site
+
+The documentation site requires Node.js 20 or newer and pnpm. To run it locally:
+
+1. Change to `docs-site`.
+2. Run `pnpm install`.
+3. Run `pnpm start`.
+
+Use `pnpm build` to validate a production build. The GitHub Actions workflow in
+`.github/workflows/docs.yml` checks the documentation on pushes and pull requests.
 
 ## Local stack
 
